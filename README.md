@@ -10,7 +10,7 @@ Main interests include medium to big size projects with various interesting feat
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KALIMI&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
 
 

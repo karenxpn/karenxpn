@@ -4,7 +4,7 @@ IOS developer with over one year of experience. Developing apps using best pract
 Main interests include medium to big size projects with various interesting features. 
 
 - 🔭 I’m currently working on FlyShop, Online Printing and vFruits.am projects
-- 📫 How to reach me: [I'm an inline-style link](https://www.google.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karen-mirakyan-236915202/), [Facebook](https://www.facebook.com/karen.mirakyan/), [Mail](karenmirakyan@gmail.com)
 
 
 

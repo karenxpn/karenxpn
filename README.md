@@ -12,12 +12,13 @@ Main interests include medium to big size projects with various interesting feat
 </a>
 
 
+<br>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karen-mirakyan-236915202/), [Facebook](https://www.facebook.com/karen.mirakyan/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KALIMI&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/KALIMI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALIMI&layout=compact&theme=dark" />
 </a>
 

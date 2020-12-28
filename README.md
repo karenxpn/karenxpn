@@ -11,6 +11,7 @@ Main interests include medium to big size projects with various interesting feat
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KALIMI&repo=FlyShop&theme=vision-friendly-dark" />
 </a>
 
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karen-mirakyan-236915202/), [Facebook](https://www.facebook.com/karen.mirakyan/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

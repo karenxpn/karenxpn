@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+#IOS developer with over one year of experience. Developing apps using best practices of IOS development including new Apple's declarative framework SwiftUI( released in June 2019 ), Combine framework, MVVM etc. Have experience working with APIs, Firebase, Payment Integration, Map, Augmented Reality etc.
+Main interests include medium to big size projects with various interesting features. 
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KALIMI&show_icons=true&theme=synthwave)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KALIMI&repo=FlyShop)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KALIMI)](https://github.com/anuraghazra/github-readme-stats)

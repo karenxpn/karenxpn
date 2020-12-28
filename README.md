@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KALIMI&show_icons=true&theme=synthwave)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KALIMI&repo=FlyShop)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KALIMI)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 

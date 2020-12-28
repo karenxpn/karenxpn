@@ -7,8 +7,7 @@ Main interests include medium to big size projects with various interesting feat
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karen-mirakyan-236915202/), [Facebook](https://www.facebook.com/karen.mirakyan/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KALIMI&show_icons=true&theme=synthwave)
-" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KALIMI&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />

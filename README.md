@@ -3,7 +3,7 @@
 IOS developer with over one year of experience. Developing apps using best practices of IOS development including new Apple's declarative framework SwiftUI( released in June 2019 ), Combine framework, MVVM etc. Have experience working with APIs, Firebase, Payment Integration, Map, Augmented Reality etc.
 Main interests include medium to big size projects with various interesting features. 
 
-- 🔭 I’m currently working on FlyShop, Online Printing projects
+- 🔭 I’m currently working on FlyShop and Online Printing projects.
 <a href="https://github.com/KALIMI/OnlinePrinting">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KALIMI&repo=OnlinePrinting&theme=vision-friendly-dark" />
 </a>
@@ -21,8 +21,9 @@ Main interests include medium to big size projects with various interesting feat
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALIMI&layout=compact&theme=dark" />
 </a>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KALIMI)](https://github.com/anuraghazra/github-readme-stats)
 
-vision-friendly-dark
+
 <!--
 **KALIMI/KALIMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

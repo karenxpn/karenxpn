@@ -1,8 +1,7 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KALIMI)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KALIMI&count_private=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KALIMI&show_icons=true)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KALIMI&show_icons=true&theme=synthwave)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KALIMI&repo=FlyShop)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--

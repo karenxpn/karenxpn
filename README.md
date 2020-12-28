@@ -12,7 +12,7 @@ Main interests include medium to big size projects with various interesting feat
 </a>
 
 
-<br>
+<br></br>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karen-mirakyan-236915202/), [Facebook](https://www.facebook.com/karen.mirakyan/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,8 +21,6 @@ Main interests include medium to big size projects with various interesting feat
 <a href="https://github.com/KALIMI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALIMI&layout=compact&theme=dark" />
 </a>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KALIMI)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

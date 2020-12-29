@@ -25,20 +25,20 @@ Main interests include medium to big size projects with various interesting feat
 <br></br>
 💻  Programming Languages, Frameworks and Tools
 
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Swift-informational?style=plastic&logo=Swift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=plastic&logo=Kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=C++&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/ -SwiftUI-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ -Combine-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ -Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SwiftUI-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Combine-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Firebase-informational?style=plastic&logo=firebase&logoColor=white&color=2bbc8a)
 
 
-![](https://img.shields.io/badge/AugmentedReality-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SDWebImageSwiftUI-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Alamofire-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/FocusEntity-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AugmentedReality-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SDWebImageSwiftUI-informational?style=plastic&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Alamofire-informational?style=plastic&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/FocusEntity-informational?style=plastic&logo=github&logoColor=white&color=2bbc8a)
 
 
 <!--

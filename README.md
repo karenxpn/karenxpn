@@ -25,7 +25,7 @@ Main interests include medium to big size projects with various interesting feat
 <br></br>
 💻 Frameworks and Tools
 
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
@@ -35,7 +35,7 @@ Main interests include medium to big size projects with various interesting feat
 ![](https://img.shields.io/badge/Framework-Firebase-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
 
 
-![](https://img.shields.io/badge/Tools-Augmented Reality-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AugmentedReality-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SDWebImageSwiftUI-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Alamofire-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-FocusEntity-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)

@@ -30,15 +30,15 @@ Main interests include medium to big size projects with various interesting feat
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Framework-SwiftUI-informational?style=flat&logo=SwiftUI&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Combine-informational?style=flat&logo=Combine&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Firebase-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-SwiftUI-informational?style=flat&logo=tools&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Combine-informational?style=flat&logo=tools&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 
 
-![](https://img.shields.io/badge/Tools-AugmentedReality-informational?style=flat&logo=protools&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SDWebImageSwiftUI-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Alamofire-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-FocusEntity-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AugmentedReality-informational?style=flat&logo=tools&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SDWebImageSwiftUI-informational?style=flat&logo=tools&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Alamofire-informational?style=flat&logo=tools&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-FocusEntity-informational?style=flat&logo=tools&logoColor=white&color=2bbc8a)
 
 
 <!--

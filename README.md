@@ -22,6 +22,10 @@ Main interests include medium to big size projects with various interesting feat
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALIMI&layout=compact&theme=dark" />
 </a>
 
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+  ![](https://img.shields.io/badge/<IOS>-<SwiftUI>-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+
+
 
 <!--
 **KALIMI/KALIMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -35,7 +35,11 @@ Main interests include medium to big size projects with various interesting feat
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=plastic&logo=Firebase)
 
 
-![](https://img.shields.io/badge/AugmentedReality-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)
+![AugmentedReality](https://img.shields.io/badge/AugmentedReality-informational?style=plastic&logo=Apple)
+![AugmentedReality](https://img.shields.io/badge/SDWebImageSwiftUI-informational?style=plastic&logo=GitHub)
+![AugmentedReality](https://img.shields.io/badge/Alamofire-informational?style=plastic&logo=GitHub)
+![AugmentedReality](https://img.shields.io/badge/FocusEntity-informational?style=plastic&logo=GitHub)
+
 ![](https://img.shields.io/badge/SDWebImageSwiftUI-informational?style=plastic&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Alamofire-informational?style=plastic&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FocusEntity-informational?style=plastic&logo=github&logoColor=white&color=2bbc8a)

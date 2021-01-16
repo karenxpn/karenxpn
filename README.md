@@ -30,9 +30,9 @@ Main interests include medium to big size projects with various interesting feat
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=C++&logoColor=white&color=2bbc8a)
 
-![SwiftUI](https://img.shields.io/badge/-Apple-05122A?style=flat-square&logo=Apple)
-![Combine](https://img.shields.io/badge/-Apple-05122A?style=flat-square&logo=Apple)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
+![SwiftUI](https://img.shields.io/badge/-Apple-05122A?style=plastic&logo=Apple)
+![Combine](https://img.shields.io/badge/-Apple-05122A?style=plastic&logo=Apple)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=plastic&logo=Firebase)
 
 
 ![](https://img.shields.io/badge/AugmentedReality-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)

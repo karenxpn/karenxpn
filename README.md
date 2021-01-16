@@ -25,10 +25,10 @@ Main interests include medium to big size projects with various interesting feat
 <br></br>
 💻  Programming Languages, Frameworks and Tools
 
-![](https://img.shields.io/badge/Code-Swift-informational?style=plastic&logo=Swift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=plastic&logo=Kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=C++&logoColor=white&color=2bbc8a)
+![Swift](https://img.shields.io/badge/Code-Swift-informationalstyle=plastic&logo=Swift)
+![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?sstyle=plastic&logo=Kotlin)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=C++)
 
 ![SwiftUI](https://img.shields.io/badge/-Apple-05122A?style=plastic&logo=Apple)
 ![Combine](https://img.shields.io/badge/-Apple-05122A?style=plastic&logo=Apple)
@@ -36,13 +36,9 @@ Main interests include medium to big size projects with various interesting feat
 
 
 ![AugmentedReality](https://img.shields.io/badge/AugmentedReality-informational?style=plastic&logo=Apple)
-![AugmentedReality](https://img.shields.io/badge/SDWebImageSwiftUI-informational?style=plastic&logo=GitHub)
-![AugmentedReality](https://img.shields.io/badge/Alamofire-informational?style=plastic&logo=GitHub)
-![AugmentedReality](https://img.shields.io/badge/FocusEntity-informational?style=plastic&logo=GitHub)
-
-![](https://img.shields.io/badge/SDWebImageSwiftUI-informational?style=plastic&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Alamofire-informational?style=plastic&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/FocusEntity-informational?style=plastic&logo=github&logoColor=white&color=2bbc8a)
+![SDWebImageSwiftUI](https://img.shields.io/badge/SDWebImageSwiftUI-informational?style=plastic&logo=GitHub)
+![Alamofire](https://img.shields.io/badge/Alamofire-informational?style=plastic&logo=GitHub)
+![FocusEntity](https://img.shields.io/badge/FocusEntity-informational?style=plastic&logo=GitHub)
 
 
 <!--

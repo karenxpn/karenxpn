@@ -32,8 +32,7 @@ Main interests include medium to big size projects with various interesting feat
 
 ![](https://img.shields.io/badge/SwiftUI-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Combine-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Firebase-informational?style=plastic&logo=firebase&logoColor=white&color=2bbc8a)
-
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
 
 ![](https://img.shields.io/badge/AugmentedReality-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SDWebImageSwiftUI-informational?style=plastic&logo=github&logoColor=white&color=2bbc8a)

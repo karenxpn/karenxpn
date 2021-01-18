@@ -25,7 +25,7 @@ Main interests include medium to big size projects with various interesting feat
 <br></br>
 💻  Programming Languages, Frameworks and Tools
 
-![Swift](https://img.shields.io/badge/Code-Swift-informationalstyle=plastic&logo=swift)
+![Swift](https://img.shields.io/badge/Code-Swift-informational?style=plastic&logo=Swift)
 ![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?sstyle=plastic&logo=Kotlin)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=C++)

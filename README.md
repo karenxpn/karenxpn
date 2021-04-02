@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-IOS developer with over one year of experience. Developing apps using best practices of IOS development including new Apple's declarative framework SwiftUI( released in June 2019 ), Combine framework, MVVM etc. Have experience working with APIs, Firebase, Payment Integration, Map, Augmented Reality etc.
+IOS developer with over one year of experience. Developing apps using best practices of IOS development including new Apple's declarative framework SwiftUI( released in June 2019 ), Combine framework, MVVM etc. Have experience working with APIs, Socket.io, Firebase, Payment Integration, Map, Augmented Reality etc.
 Main interests include medium to big size projects with various interesting features. 
 
 - 🔭 I’m currently working on FlyShop and Online Printing projects.

@@ -4,11 +4,11 @@ IOS developer with over one year of experience. Developing apps using best pract
 Main interests include medium to big size projects with various interesting features. 
 
 <!-- - 🔭 I’m currently working on FlyShop and Online Printing projects.
-<a href="https://github.com/KALIMI/OnlinePrinting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KALIMI&repo=OnlinePrinting&theme=vision-friendly-dark" />
+<a href="https://github.com/karenxpn/OnlinePrinting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karenxpn&repo=OnlinePrinting&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/KALIMI/FlyShop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KALIMI&repo=FlyShop&theme=vision-friendly-dark" />
+<a href="https://github.com/karenxpn/FlyShop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karenxpn&repo=FlyShop&theme=vision-friendly-dark" />
 </a>
  -->
 
@@ -16,10 +16,10 @@ Main interests include medium to big size projects with various interesting feat
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karen-mirakyan-236915202/), [Facebook](https://www.facebook.com/karen.mirakyan/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KALIMI&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karenxpn&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github.com/KALIMI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALIMI&layout=compact&theme=dark" />
+<a href="https://github.com/karenxpn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenxpn&layout=compact&theme=dark" />
 </a>
 
 <br></br>

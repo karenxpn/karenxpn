@@ -1,19 +1,9 @@
 ### Hi there 👋
 
-IOS developer with over one year of experience. Developing apps using best practices of IOS development including new Apple's declarative framework SwiftUI( released in June 2019 ), Combine framework, MVVM etc. Have experience working with APIs, Socket.io, Firebase, Payment Integration, Map, Augmented Reality etc.
+IOS developer with over one year of experience. Developing apps using best practices of IOS development: Swift/SwiftUI, Combine, MVVM etc. Have experience working with APIs, Socket.io, Pusher, Push Notifications, In-App Purchase, Unit Testing, Firebase, Payment Integration, Map, Augmented Reality etc.
 Main interests include medium to big size projects with various interesting features. 
 
-<!-- - 🔭 I’m currently working on FlyShop and Online Printing projects.
-<a href="https://github.com/karenxpn/OnlinePrinting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karenxpn&repo=OnlinePrinting&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/karenxpn/FlyShop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karenxpn&repo=FlyShop&theme=vision-friendly-dark" />
-</a>
- -->
-
-<!-- <br></br> -->
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karen-mirakyan-236915202/), [Facebook](https://www.facebook.com/karen.mirakyan/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karen-mirakyan/), [Facebook](https://www.facebook.com/karen.mirakyan/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karenxpn&show_icons=true&theme=synthwave" />

@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-IOS developer with over 2 years of experience. Developing apps in Swift using best practices of IOS development including SwiftUI, Combine, MVVM, etc. Have experience working with APIs, Socket.IO, Pusher, In-App Purchases, Push Notifications, Firebase, Payment Integration, Map, Augmented Reality, Unit Testing, etc.
-<br>
-Main interests include medium to big-size projects with various interesting features.
+As an iOS developer, I have a passion for creating intuitive and engaging mobile experiences. I have a strong understanding of Swift and the iOS SDK, and I have experience working with a variety of APIs and third-party libraries. I am always looking for ways to improve the user experience and create beautiful, functional apps. I am a quick learner and I enjoy staying up-to-date with the latest developments in the field of mobile technology. In my current role, I have been responsible for developing several successful apps, including a popular social networking app and an award-winning productivity tool. I am a team player and I enjoy collaborating with designers and other developers to bring innovative ideas to life.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karen-mirakyan/), [Facebook](https://www.facebook.com/karen.mirakyan/)
 
